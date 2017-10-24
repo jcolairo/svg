@@ -10,10 +10,10 @@
 		.st0 {
 			stroke-dasharray: 4500;
 			stroke-dashoffset: 0;
-			-webkit-animation: dash 3s linear forwards, colorChange 1s linear forwards 3s;
-			-o-animation: dash 3s linear forwards, colorChange 1s linear forwards 3s;
-			-moz-animation: dash 3s linear forwards, colorChange 1s linear forwards 3s;
-			animation: dash 3s linear forwards, colorChange 1s linear forwards 3s;
+			-webkit-animation: dash 2s linear forwards, colorChange 1s linear forwards 2s;
+			-o-animation: dash 2s linear forwards, colorChange 1s linear forwards 2s;
+			-moz-animation: dash 2s linear forwards, colorChange 1s linear forwards 2s;
+			animation: dash 2s linear forwards, colorChange 1s linear forwards 2s;
 		}
 
 
@@ -29,10 +29,10 @@
 		.st1 {
 			stroke-dasharray: 300;
 			stroke-dashoffset: 0;
-			-webkit-animation: dashTie 3s linear forwards, colorChange1 1s linear forwards 3s;
-			-o-animation: dashTie 3s linear forwards, colorChange1 1s linear forwards 3s;
-			-moz-animation: dashTie 3s linear forwards, colorChange1 1s linear forwards 3s;
-			animation: dashTie 3s linear forwards, colorChange1 1s linear forwards 3s;
+			-webkit-animation: dashTie 2s linear forwards, colorChange1 1s linear forwards 2s;
+			-o-animation: dashTie 2s linear forwards, colorChange1 1s linear forwards 2s;
+			-moz-animation: dashTie 2s linear forwards, colorChange1 1s linear forwards 2s;
+			animation: dashTie 2s linear forwards, colorChange1 1s linear forwards 2s;
 		}
 
 		@-webkit-keyframes dashTie {
@@ -47,10 +47,10 @@
 		.st2 {
 			stroke-dasharray: 550;
 			stroke-dashoffset: 0;
-			-webkit-animation: dashMasters 4s linear forwards, colorChange 1s linear forwards 3s;
-			-o-animation: dashMasters 4s linear forwards, colorChange 1s linear forwards 3s;
-			-moz-animation: dashMasters 4s linear forwards, colorChange 1s linear forwards 3s;
-			animation: dashMasters 4s linear forwards, colorChange 1s linear forwards 3s;
+			-webkit-animation: dashMasters 2s linear forwards, colorChange 1s linear forwards 2s;
+			-o-animation: dashMasters 2s linear forwards, colorChange 1s linear forwards 2s;
+			-moz-animation: dashMasters 2s linear forwards, colorChange 1s linear forwards 2s;
+			animation: dashMasters 2s linear forwards, colorChange 1s linear forwards 2s;
 		}
 
 		@-webkit-keyframes dashMasters {
@@ -65,10 +65,10 @@
 		.dashM {
 			stroke-dasharray: 650;
 			stroke-dashoffset: 0;
-			-webkit-animation: dashM 3s linear forwards, colorChange 1s linear forwards 3s;
-			-o-animation: dashM 3s linear forwards, colorChange 1s linear forwards 3s;
-			-moz-animation: dashM 3s linear forwards, colorChange 1s linear forwards 3s;
-			animation: dashM 3s linear forwards, colorChange 1s linear forwards 3s;
+			-webkit-animation: dashM 2s linear forwards, colorChange 1s linear forwards 2s;
+			-o-animation: dashM 2s linear forwards, colorChange 1s linear forwards 2s;
+			-moz-animation: dashM 2s linear forwards, colorChange 1s linear forwards 2s;
+			animation: dashM 2s linear forwards, colorChange 1s linear forwards 2s;
 		}
 
 		@-webkit-keyframes dashM {
